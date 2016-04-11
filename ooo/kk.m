@@ -1,1 +1,2 @@
-@interface 
+@interface
+int a ;
