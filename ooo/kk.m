@@ -1,3 +1,4 @@
 @interface
 int a ;
-int b 
+int b ;
+int m；
